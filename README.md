@@ -33,16 +33,4 @@ Link to the resource: http://www.dataquest.io
     <td class="tg-yw4l"><a href="https://github.com/denrasulev/dataquest/blob/master/TransformData.ipynb">TransformData.ipynb</a></td>
     <td class="tg-yw4l">Project on Transforming Data</td>
   </tr>
-  <tr>
-    <td class="tg-yw4l"> </td>
-    <td class="tg-yw4l"> </td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l"> </td>
-    <td class="tg-yw4l"> </td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l"> </td>
-    <td class="tg-yw4l"> </td>
-  </tr>
 </table>
