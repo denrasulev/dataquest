@@ -10,7 +10,7 @@ Link to the resource: http://www.dataquest.io
     <th class="tg-yw4l">Description</th>
   </tr>
   <tr>
-    <td class="tg-yw4l">[NFL.ipynb](https://github.com/denrasulev/dataquest/blob/master/NFL.ipynb)</td>
+    <td class="tg-yw4l">NFL.ipynb</td>
     <td class="tg-yw4l">Project to process NFL Suspensions</td>
   </tr>
   <tr>
